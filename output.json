@@ -1,0 +1,23 @@
+[
+    {
+        "Name": "Alice",
+        "Address": "123 Elm St.",
+        "Shone_Number": "123-456-7890",
+        "Date_Of_Birth": "1990-01-01",
+        "Gender": "Female"
+    },
+    {
+        "Name": "Bob",
+        "Address": "456 Oak St.",
+        "Shone_Number": "987-654-3210",
+        "Date_Of_Birth": "1985-05-12",
+        "Gender": "Male"
+    },
+    {
+        "Name": "Charlie",
+        "Address": "789 Pine St.",
+        "Shone_Number": "555-555-5555",
+        "Date_Of_Birth": "1992-07-19",
+        "Gender": "Male"
+    }
+]
