@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "channa",
+        "Age": 22,
+        "Index_Number": 1,
+        "Gender": "male"
+    },
+    {
+        "Name": "tharindu",
+        "Age": 23,
+        "Index_Number": 2,
+        "Gender": "male"
+    },
+    {
+        "Name": "tharushi",
+        "Age": 21,
+        "Index_Number": 3,
+        "Gender": "female"
+    }
+]
